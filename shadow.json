@@ -1,0 +1,12 @@
+{
+  "state": {
+    "desired": {
+      "welcome": "aws-iot",
+      "motoropen": 1
+    },
+    "reported": {
+      "welcome": "aws-iot",
+      "motoropen": 1
+    }
+  }
+}
